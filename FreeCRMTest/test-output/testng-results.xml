@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20684" started-at="2021-09-22T21:11:33 IST" finished-at="2021-09-22T21:11:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20684" started-at="2021-09-22T21:11:33 IST" finished-at="2021-09-22T21:11:54 IST">
+      <class name="com.crm.qa.testcases.LogsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="setup" is-config="true" duration-ms="8709" started-at="2021-09-22T21:11:33 IST" finished-at="2021-09-22T21:11:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="freeCrmTitleTest" duration-ms="19" started-at="2021-09-22T21:11:42 IST" finished-at="2021-09-22T21:11:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrmTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="tearDown" is-config="true" duration-ms="752" started-at="2021-09-22T21:11:42 IST" finished-at="2021-09-22T21:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="setup" is-config="true" duration-ms="10308" started-at="2021-09-22T21:11:43 IST" finished-at="2021-09-22T21:11:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="freemCRMLogoTest" duration-ms="131" started-at="2021-09-22T21:11:53 IST" finished-at="2021-09-22T21:11:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freemCRMLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LogsTest@71d15f18]" name="tearDown" is-config="true" duration-ms="717" started-at="2021-09-22T21:11:53 IST" finished-at="2021-09-22T21:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LogsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

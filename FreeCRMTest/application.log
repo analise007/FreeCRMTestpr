@@ -1,0 +1,23 @@
+2021-09-22 21:11:33,694  INFO [main] LogsTest:21 - ****************************** Starting test cases execution  *****************************************
+2021-09-22 21:11:35,844  INFO [main] LogsTest:25 - launching chrome broswer
+2021-09-22 21:11:42,395  INFO [main] LogsTest:32 - entering application URL
+2021-09-22 21:11:42,396  WARN [main] LogsTest:33 - Hey this just a warning message
+2021-09-22 21:11:42,397 FATAL [main] LogsTest:34 - hey this is just fatal error message
+2021-09-22 21:11:42,398 DEBUG [main] LogsTest:35 - this is debug message
+2021-09-22 21:11:42,406  INFO [main] LogsTest:41 - ****************************** starting test case *****************************************
+2021-09-22 21:11:42,406  INFO [main] LogsTest:42 - ****************************** freeCrmTitleTest *****************************************
+2021-09-22 21:11:42,416  INFO [main] LogsTest:45 - login page title is--->Free CRM - CRM software for customer relationship management, sales, and support.
+2021-09-22 21:11:42,418  INFO [main] LogsTest:48 - ****************************** ending test case *****************************************
+2021-09-22 21:11:42,419  INFO [main] LogsTest:49 - ****************************** freeCrmTitleTest *****************************************
+2021-09-22 21:11:43,172  INFO [main] LogsTest:71 - ****************************** Browser is closed *****************************************
+2021-09-22 21:11:43,181  INFO [main] LogsTest:21 - ****************************** Starting test cases execution  *****************************************
+2021-09-22 21:11:44,912  INFO [main] LogsTest:25 - launching chrome broswer
+2021-09-22 21:11:53,485  INFO [main] LogsTest:32 - entering application URL
+2021-09-22 21:11:53,485  WARN [main] LogsTest:33 - Hey this just a warning message
+2021-09-22 21:11:53,487 FATAL [main] LogsTest:34 - hey this is just fatal error message
+2021-09-22 21:11:53,488 DEBUG [main] LogsTest:35 - this is debug message
+2021-09-22 21:11:53,490  INFO [main] LogsTest:55 - ****************************** starting test case *****************************************
+2021-09-22 21:11:53,490  INFO [main] LogsTest:56 - ****************************** freemCRMLogoTest *****************************************
+2021-09-22 21:11:53,619  INFO [main] LogsTest:61 - ****************************** ending test case *****************************************
+2021-09-22 21:11:53,619  INFO [main] LogsTest:62 - ****************************** freemCRMLogoTest *****************************************
+2021-09-22 21:11:54,335  INFO [main] LogsTest:71 - ****************************** Browser is closed *****************************************
